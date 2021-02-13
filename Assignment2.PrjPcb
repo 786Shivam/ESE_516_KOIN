@@ -74,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DAISCNOH
 
 [Document3]
-DocumentPath=Buzzer schematic_all files (Buzzer schematic + IMU footprint + nand gate IC_s)\Buzzer.SchDoc
+DocumentPath=..\..\MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,7 +88,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FCIFJBZS
+DocumentUniqueId=DNFFREYF
 
 [Document4]
 DocumentPath=Memory.SchDoc
@@ -159,23 +159,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NLNIFMIV
 
 [Document8]
-DocumentPath=..\..\OneDrive\Documents\IPD SEM 4\ESE 516\MAIN.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DNFFREYF
-
-[Document9]
 DocumentPath=12V6_Boost.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,6 +174,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMXPAJUF
+
+[Document9]
+DocumentPath=relay_solenoid.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KMQKNSXF
 
 [Configuration1]
 Name=Sources
