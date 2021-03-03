@@ -465,23 +465,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ANTAGUIF
 
 [Document26]
-DocumentPath=IMU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FVUHJXPI
-
-[Document27]
 DocumentPath=Assignment3 BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=ESE516_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDNEYNWK
 
-[Document29]
+[Document28]
 DocumentPath=Library\Components - 23.02.21 - 19.45.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCBXEDYE
 
-[Document30]
+[Document29]
 DocumentPath=Library\CMI-9705-0380-SMT-TR\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document31]
+[Document30]
 DocumentPath=Library\CMI-9705-0380-SMT-TR\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document32]
+[Document31]
 DocumentPath=output.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,86 +567,74 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=https://penno365-my.sharepoint.com/personal/junpyo_upenn_edu/Documents/courses/ESE 516/altium/ESE_516_KOIN/Project Outputs for Assignment2/BOM/Bill of Materials-Assignment3 BOM.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Assignment2\NC Drill\ESE516_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.G1
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.G2
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Assignment2\NC Drill\ESE516_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Assignment2\NC Drill\ESE516_PCB.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Assignment2\Pick Place\Pick Place for ESE516_PCB.txt
 DItemRevisionGUID=
 
