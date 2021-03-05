@@ -567,7 +567,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=..\..\Github\ESE516_Starter_PCB\ASSEMBLY.PCBDwf
+DocumentPath=ASSEMBLY.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
