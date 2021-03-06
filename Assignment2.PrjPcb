@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Assignment2
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -584,82 +584,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=https://penno365-my.sharepoint.com/personal/junpyo_upenn_edu/Documents/courses/ESE 516/altium/ESE_516_KOIN/Project Outputs for Assignment2/BOM/Bill of Materials-Assignment3 BOM.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Assignment2\Design Rule Check - ESE516_PCB.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Assignment2\NC Drill\ESE516_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Assignment2\NC Drill\ESE516_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Assignment2\Gerber\ESE516_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Assignment2\NC Drill\ESE516_PCB.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Assignment2\Pick Place\Pick Place for ESE516_PCB.txt
 DItemRevisionGUID=
 
@@ -674,7 +670,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Assignment2
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
